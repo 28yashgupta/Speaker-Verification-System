@@ -12,7 +12,7 @@ This project implements a real-time speaker verification system that classifies 
 
 # 🗂 Dataset
 
-- The dataset consists of audio recordings of the variou speakers. 
+- The dataset consists of audio recordings of the various speakers. 
 - Dataset Link: https://www.kaggle.com/datasets/vjcalling/speaker-recognition-audio-dataset
 
 # 🛠️ Approach
