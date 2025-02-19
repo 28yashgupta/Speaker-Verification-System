@@ -1,5 +1,6 @@
 # Speaker-Verification-System
 # 🚀 Overview
+
 This project implements a real-time speaker verification system that classifies incoming audio as either the target speaker or a non-target speaker. The system takes a reference audio recording of a target speaker, extracts relevant audio features, and uses a machine learning model to verify if the incoming audio matches the target speaker.
 
 # 🎯Features
@@ -8,6 +9,11 @@ This project implements a real-time speaker verification system that classifies 
 - 🎼 Feature extraction using MFCCs
 - 🤖 Machine learning-based speaker verification
 - 📊 Evaluation using accuracy, F1-score, and other relevant metrics
+
+# 🗂 Dataset
+
+- The dataset consists of audio recordings of the variou speakers. 
+- Dataset Link: https://www.kaggle.com/datasets/vjcalling/speaker-recognition-audio-dataset
 
 # 🛠️ Approach
 
